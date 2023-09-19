@@ -1,7 +1,5 @@
 //Question 4: Write a Java program to find the common characters between two strings.
-import java.util.LinkedHashSet;
 import java.util.Scanner;
-import java.util.Set;
 public class Program4 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
