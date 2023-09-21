@@ -1,4 +1,4 @@
-//Question 17: Write a Java program to count the total number of words in a sentence.
+//Question 15: Write a Java program to count the total number of words in a sentence.
 import java.util.Scanner;
 public class Program15 {
     public static void main(String[] args) {
